@@ -35,7 +35,7 @@
 
   ### :woman_technologist: About Me
 
-  I'm a student currently taking a Master in Computer Engineering.<br>
+  I'm a student currently taking  my master thesis.<br>
   - 👀 I have a special interest in Mobile Development<br>
   - 🌱 I’m currently learning Javascript, React & React Native<br>
   - ⚡ I love music, programming, photography, games and hanging out with friends
