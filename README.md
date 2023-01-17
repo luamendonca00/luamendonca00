@@ -61,7 +61,7 @@
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/adobe-xd-seeklogo.com.svg" title="XD" **alt="XD" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/adobe-xd-seeklogo.com.svg" title="XD" **alt="XD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
@@ -69,7 +69,7 @@
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/sublime-text-seeklogo.com.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/sublime-text-seeklogo.com.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
 </div>
 
 <h4>Version Control</h4>
@@ -82,7 +82,7 @@
 <h4>Project Management</h4>
 
 <div>
-    <img src="https://github.com/luamendonca21/luamendonca21/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/miro-seeklogo.com.svg" title="Miro" **alt="Miro" width="40" height="40"/>&nbsp;
 </div>
 
 <h4>Database</h4>
@@ -96,11 +96,11 @@
 <div>
   <div>
     <a title="GitHub Stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca21&langs_count=7&show_icons=true&layout=compact&theme=react">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca22&langs_count=7&show_icons=true&layout=compact&theme=react">
   </div>
   <br>
   <div>
     <a title = "Github Stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca21&show_icons=true&include_all_commits=true&count_private=true&theme=react">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca22&show_icons=true&include_all_commits=true&count_private=true&theme=react">
   </div>
 </div>
