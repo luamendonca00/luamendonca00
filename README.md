@@ -42,7 +42,7 @@
   
    ### 📫 How to reach me
    - Email: [**`luamendonca_2000@hotmail.com`**](mailto:luamendonca_2000@hotmail.com)
-   - Discord: [**`tecna#4508`**](https://discord.com/users/688143629432258592)
+   - Discord: [**`luana2000#4508`**](https://discord.com/users/688143629432258592)
   
   ### 👩‍🔧 What do I use for my projects
 
