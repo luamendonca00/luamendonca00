@@ -96,7 +96,7 @@
 <div>
   <div>
     <a title="GitHub Stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca22&langs_count=7&show_icons=true&layout=compact&theme=react">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca22&langs_count=7&count_private=true&show_icons=true&layout=compact&theme=react">
   </div>
   <br>
   <div>
