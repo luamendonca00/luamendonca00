@@ -61,7 +61,6 @@
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/adobe-xd-seeklogo.com.svg" title="XD" **alt="XD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
@@ -89,7 +88,7 @@
 
 <div>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase"  alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" title="MySQL"  alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
 ### 📊 Stats
