@@ -91,6 +91,12 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
+<h4>Testing</h4>
+
+<div>
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
+</div>
+
 ### 📊 Stats
 <div>
   <div>
