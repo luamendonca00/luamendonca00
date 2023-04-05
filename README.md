@@ -87,8 +87,8 @@
 <h4>Database</h4>
 
 <div>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase"  alt="Firebase" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MySQL"  alt="MongoDB" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="Firebase" **alt="Firebase" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
 ### 📊 Stats
