@@ -46,7 +46,7 @@
   
   ### 👩‍🔧 What do I use for my projects
 
-<h4>Frontend</h4>
+<h4>Front-end</h4>
 
 <div>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -58,7 +58,7 @@
   <img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/react-native-seeklogo.com.svg" title="ReactNative" alt="ReactNative" width="45" height="42"/>&nbsp;
 </div>
 
-<h4>Backend</h4>
+<h4>Back-end</h4>
 
 <div>
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>&nbsp;
