@@ -66,20 +66,6 @@
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" **alt="Postman" width="40" height="40"/>&nbsp;
 </div>
 
-<h4>Code Editors</h4>
-
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/sublime-text-seeklogo.com.svg" title="SublimeText" alt="SublimeText" width="40" height="40"/>&nbsp;
-</div>
-
-<h4>Version Control</h4>
-
-<div>
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="Github" **alt="Github" width="40" height="40"/>&nbsp;
-</div>
-
 
 ### 📊 Stats
 <div>
