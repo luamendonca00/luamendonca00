@@ -52,7 +52,7 @@
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;</a>
   <a href="https://tailwindcss.com/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;</a>
-  <a href="https://react.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="45" height="42"/>&nbsp;</a>
+  <a href="https://react.dev/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React.js" alt="React.js" width="45" height="42"/>&nbsp;</a>
   <a href="https://reactnative.dev/"><img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/react-native-seeklogo.com.svg" title="React Native" alt="ReactNative" width="45" height="42"/>&nbsp;</a>
   <a href="https://zustand-demo.pmnd.rs/"><img src="https://github.com/luamendonca22/luamendonca22/blob/main/assets/zustand.png" title="Zustand" alt="Zustand" height="45"/>&nbsp;</a>
 </div>
