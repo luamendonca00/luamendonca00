@@ -14,7 +14,7 @@
 <a href="https://discord.com/users/688143629432258592">
   <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord">
  </a>
-<a href="https://www.linkedin.com/in/luamendonca22">
+<a href="https://www.linkedin.com/in/luamendonca00">
   <img src="https://img.shields.io/badge/LinkedIn-2554da?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://slack.com/app_redirect?channel=U02H9918P2A">
