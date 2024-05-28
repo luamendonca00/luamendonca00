@@ -72,11 +72,11 @@
 <div>
   <div>
     <a title="GitHub Stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca22&langs_count=7&show_icons=true&layout=compact&theme=react">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luamendonca00&langs_count=7&show_icons=true&layout=compact&theme=react">
   </div>
   <br>
   <div>
     <a title = "Github Stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca22&show_icons=true&count_private=true&theme=react">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=luamendonca00&show_icons=true&count_private=true&theme=react">
   </div>
 </div>
