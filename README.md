@@ -36,8 +36,9 @@
   ### :woman_technologist: About Me
 
   - 👀 I have a special interest in Mobile Development<br>
-  - 🌱 I’m currently learning React Native and Node.js<br>
-  - ⚡ I love music, programming, photography, games and hanging out with friends
+  - 🌱 I’m currently learning React Native<br>
+  - 🛠️ I’m currently working with web development, React.js<br>
+  - ⚡ I love music, programming and games
   
    ### 📫 How to reach me
    - Email: [**`luamendonca_2000@hotmail.com`**](mailto:luamendonca_2000@hotmail.com)
