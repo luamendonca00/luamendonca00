@@ -35,7 +35,7 @@
 
   ### :woman_technologist: About Me
 
-  - 👀 I have a special interest in Mobile Development<br>
+  - 👀 I have a special interest in mobile development<br>
   - 🌱 I’m currently learning React Native<br>
   - 🛠️ I’m currently working with web development, React.js<br>
   - ⚡ I love music, programming and games
